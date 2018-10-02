@@ -10,4 +10,7 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
 
+- [KickButts](https://github.com/kickbutts)
+
+
 - [Name](github profile link)
