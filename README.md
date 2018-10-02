@@ -6,8 +6,8 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Aditya Choudhary](https://github.com/adich23)
 
-- [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
-
 - [JustAnotherMediocre](https://github.com/21RachitShukla)
+
+- [Vinicius Temoteo Ferrari](https://github.com/vtferrari)
 
 - [Name](github profile link)
