@@ -12,5 +12,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [KickButts](https://github.com/kickbutts)
 
+- [phntxx](https://github.com/phntxx)
 
 - [Name](github profile link)
