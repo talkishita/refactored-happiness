@@ -12,5 +12,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [KickButts](https://github.com/kickbutts)
 
+- [Aayush Bisen](https://github.com/aayushbisen)
 
 - [Name](github profile link)
