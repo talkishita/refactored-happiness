@@ -8,4 +8,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [JustAnotherMediocre](https://github.com/21RachitShukla)
 
+- [KickButts](https://github.com/kickbutts)
+
 - [Name](github profile link)
