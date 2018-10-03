@@ -14,4 +14,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [phntxx](https://github.com/phntxx)
 
+- [Aayush Bisen](https://github.com/aayushbisen)
+
 - [Name](github profile link)
