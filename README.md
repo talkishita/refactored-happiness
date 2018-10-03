@@ -16,4 +16,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Aayush Bisen](https://github.com/aayushbisen)
 
+- [Suvansh Rana](https://github.com/Sherlock2000)
+
 - [Name](github profile link)
