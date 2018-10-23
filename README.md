@@ -22,4 +22,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Sahil Bhola][https://github.com/sahilgenius1]
 
+- [Piyush Kumar Singh](https://github.com/piyushkumarsingh)
+
 - [Name](github profile link)
