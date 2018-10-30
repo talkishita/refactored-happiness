@@ -24,4 +24,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Piyush Kumar Singh](https://github.com/piyushkumarsingh)
 
+- [Vagisha Gupta](https://github.com/vagishagupta23)
+
 - [Name](github profile link)
