@@ -20,7 +20,7 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Gaston Coria](https://github.com/gcoria)
 
-- [Sahil Bhola][https://github.com/sahilgenius1]
+- [Sahil Bhola](https://github.com/sahilgenius1)
 
 - [Piyush Kumar Singh](https://github.com/piyushkumarsingh)
 
