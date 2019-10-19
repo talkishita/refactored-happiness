@@ -30,4 +30,6 @@ Start Hacktoberfest by creating your first PR :)
 
 - [msRob0t](https://github.com/msRob0t)
 
+- [Divyam Jain](https://github.com/Divyamdj)
+
 - [Name](github profile link)
