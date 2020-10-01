@@ -32,4 +32,4 @@ Start Hacktoberfest by creating your first PR :)
 
 - [Divyam Jain](https://github.com/Divyamdj)
 
-- [Name](github profile link)
+- [Ishita](https://github.com/talkishita)
